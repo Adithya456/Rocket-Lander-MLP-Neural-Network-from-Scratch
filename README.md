@@ -10,8 +10,7 @@ The project demonstrates the fundamental principles of building and training neu
 3. Visualizing RMSE trends over training to evaluate model learning and potential overfitting.
 
 ## Project Structure
-- **Data Loading and Preprocessing**:
-  - Loaded the dataset (`ce889_dataCollection.csv`).
+- **Data Preprocessing**:
   - Removed duplicates and NaN values.
   - Normalized features to a [0, 1] range.
   - Split the dataset into training (70%), validation (15%), and test (15%) sets.
