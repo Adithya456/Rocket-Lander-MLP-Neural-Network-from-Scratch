@@ -2,7 +2,7 @@
 
 ![Rocker Lander Image](./RockerLanderImage.png)
 
-You can view the complete video of the trained neural network here: [Watch Video](./RocketLanderGameVideo.mp4)
+You can view the complete video of the trained neural network by downloading from here: [Trained Rocket Lander Video](./RocketLanderGameVideo.mp4)
 
 ## Project Description
 This project implements a simple feedforward neural network (Multilayer Perceptron) in Python to perform regression. The network includes training and validation processes to minimize Root Mean Square Error (RMSE) over epochs and plots trends to evaluate performance. All components of the model, including forward propagation, backpropagation, and weight updates, were implemented from scratch.
